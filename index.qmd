@@ -41,7 +41,7 @@ Bayesian Statistics is a PhD course organized in three modules, which are:
 
 ## Examination
 
-The exam rules are explained [here](exam_rules.pdf). In short, you will be asked to read a paper, write a short review paper about it, and finally make a presentation. An example from previous years:
+The exam rules are explained [here](exam_rules.pdf). In short, you will be asked to read a paper, write a short review paper about it, and present it. Here is an example from previous years:
 
 - [Paper](AOAP2018.pdf) assigned to a PhD student, using the keyword system;
 - [Short review](ghilotti_review.pdf), written using the Bayesian Analysis template;
