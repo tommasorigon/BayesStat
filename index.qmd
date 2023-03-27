@@ -57,11 +57,10 @@ The exam rules are explained [here](exam_rules.pdf). In short, you will be asked
 
 #### Articles
 
-1. Albert, J. H. and Chib, S. (1993). Bayesian analysis of binary and polychotomous response data. *Journal of the American Statistical Association*, **88**(422), 669--679. 
-
 1. Blei, D. M., Kucukelbirb A., and McAuliffe, J. D. (2017). Variational inference: a review for statisticians. *Journal of the American Statistical Association*, **112**(518), 859--877.
 
-1. Chopin, N. and Ridgway, J. (2017). Leave Pima indians alone: binary regression as a benchmark for Bayesian computation. *Statistical Science*, **32**(1), 64--87.
+1. Roberts, G. O. and Rosenthal, J. S. (2001). Optimal scaling for various Metropolis-Hastings algorithms. *Statistical Science*, **16**(4), 351--367.
+
 
 ------------------------------------------------
 
