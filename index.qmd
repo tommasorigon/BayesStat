@@ -19,10 +19,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-Bayesian Statistics is a PhD course organized in three modules, which are:
+Bayesian Statistics is a PhD course organized in **three modules**, which are:
 
-- Introduction to Bayesian statistics (xxh)  -- Bernardo Nipoti
-- [Bayesian computations](https://tommasorigon.github.io/CompStat/)  (12h) -- Tommaso Rigon
+- Introduction to Bayesian statistics (15h)  -- Bernardo Nipoti
+- [Bayesian computations](https://tommasorigon.github.io/CompStat/)  (15h) -- Tommaso Rigon
 - Bayesian modelling (xx h) -- Raffaele Argiento
 
 <!-- ## Prerequisites -->
@@ -41,7 +41,7 @@ Bayesian Statistics is a PhD course organized in three modules, which are:
 
 ## Exam
 
-The exam rules are explained [here](exam_rules.pdf). In short, you will be asked to read a paper, write a short review paper, and then make a presentation. Here is an example from previous years:
+The exam rules are explained [here](exam_rules.pdf). In short, you will be asked to read a paper, write a short review, and then make a presentation. Here is an example from previous years:
 
 1. [Paper](AOAP2018.pdf) assigned to a PhD student, using the keyword system;
 1. [Short review](ghilotti_review.pdf), written using the Bayesian Analysis template;
