@@ -46,7 +46,10 @@ Bayesian Statistics is a Ph.D. course organized in **three modules**
 
 ---------------------------------------------------
 
-#### Advanced Bayesian modelling (Raffaele Argiento, 15h)
+#### Advanced Bayesian modelling (Raffaele Argiento, 12h)
+
+-
+-
 
 ## Exam
 
