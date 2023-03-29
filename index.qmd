@@ -19,24 +19,11 @@ editor_options:
   chunk_output_type: console
 ---
 
-Bayesian Statistics is a Ph.D. course organized in **three modules**, which are:
-
-- Introduction to Bayesian statistics (15h)  -- Bernardo Nipoti
-- [Bayesian computations](https://tommasorigon.github.io/CompStat/)  (15h) -- Tommaso Rigon
-- Bayesian modelling (xx h) -- Raffaele Argiento
-
-<!-- ## Prerequisites -->
-
-<!-- It is assumed the knowledge of the following topics: -->
-
-<!--   * Fundamentals of Bayesian statistics. Refer to Chapters 1-5 of Hoff (2009). -->
-<!--   * Monte Carlo integration. Refer to Chapter 3 of Robert and Casella (2009), or Chapter 4 of Hoff (2009). -->
-
-<!--    Further preliminary material is available (in Italian) at the website of the course [R for the multivariate statistical analysis](https://tommasorigon.github.io/introR/).  -->
-
 ## Detailed syllabus
 
-**Principles of Bayesian statistics** (Bernardo Nipoti, 15h)
+Bayesian Statistics is a Ph.D. course organized in **three modules**
+
+#### Principles of Bayesian statistics (Bernardo Nipoti, 15h)
 
 -	Exchangeability and de Finetti’s theorem
 -	The Bayesian framework
@@ -49,7 +36,7 @@ Bayesian Statistics is a Ph.D. course organized in **three modules**, which are:
 
 ---------------------------------------------------
 
-**Bayesian computations** (Tommaso Rigon, 15h)
+#### [Bayesian computations](https://tommasorigon.github.io/CompStat/) (Tommaso Rigon, 15h)
 
 - Metropolis-Hastings and Gibbs sampling 
 - Optimal scaling & adaptive Metropolis 
@@ -59,7 +46,7 @@ Bayesian Statistics is a Ph.D. course organized in **three modules**, which are:
 
 ---------------------------------------------------
 
-**Advanced Bayesian modelling** (Raffaele Argiento, 15h)
+#### Advanced Bayesian modelling (Raffaele Argiento, 15h)
 
 ## Exam
 
@@ -73,18 +60,18 @@ The exam rules are described [here](exam_rules.pdf). In short, you will be asked
 
 #### Books
 
+ - Gelman, A., Carlin, J.B., Stern, H.S., Dunson, D.B., Vehtari, A. and Rubin, D.B., 2013. [_Bayesian data analysis_](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf). CRC press.
  - Hoff, P. D. (2009). _A First Course in Bayesian Statistical Methods_. Springer.
  - Robert, C. P., and Casella, G. (2009). [_Introducing Monte Carlo methods with R_](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-1576-4.pdf). Springer.
  -	Robert, C., 2007. _The Bayesian choice: from decision-theoretic foundations to computational implementation_. Springer Science & Business Media.
--	Gelman, A., Carlin, J.B., Stern, H.S., Dunson, D.B., Vehtari, A. and Rubin, D.B., 2013. [_Bayesian data analysis_](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf). CRC press.
 
  
 
 #### Articles
 
-1. Blei, D. M., Kucukelbirb A., and McAuliffe, J. D. (2017). Variational inference: a review for statisticians. *Journal of the American Statistical Association*, **112**(518), 859--877.
+- Blei, D. M., Kucukelbirb A., and McAuliffe, J. D. (2017). Variational inference: a review for statisticians. *Journal of the American Statistical Association*, **112**(518), 859--877.
 
-1. Roberts, G. O. and Rosenthal, J. S. (2001). Optimal scaling for various Metropolis-Hastings algorithms. *Statistical Science*, **16**(4), 351--367.
+- Roberts, G. O. and Rosenthal, J. S. (2001). Optimal scaling for various Metropolis-Hastings algorithms. *Statistical Science*, **16**(4), 351--367.
 
 
 ------------------------------------------------
