@@ -36,8 +36,30 @@ Bayesian Statistics is a Ph.D. course organized in **three modules**, which are:
 
 ## Detailed syllabus
 
-* Something something
-* asd
+**Principles of Bayesian statistics** (Bernardo Nipoti, 15h)
+
+-	Exchangeability and de Finetti’s theorem
+-	The Bayesian framework
+-	Conjugate prior distributions
+-	Bayesian point estimation
+-	Test and credible intervals
+-	The normal model
+-	The multivariate normal model
+-	Introduction to hierarchical modelling
+
+---------------------------------------------------
+
+**Bayesian computations** (Tommaso Rigon, 15h)
+
+- Metropolis-Hastings and Gibbs sampling 
+- Optimal scaling & adaptive Metropolis 
+- MALA algorithm & Hamiltonian Monte Carlo 
+- Missing data problems, Gibbs sampling and the EM algorithm 
+- Laplace appr., Variational Bayes, and Expectation Propagation
+
+---------------------------------------------------
+
+**Advanced Bayesian modelling** (Raffaele Argiento, 15h)
 
 ## Exam
 
@@ -51,8 +73,11 @@ The exam rules are described [here](exam_rules.pdf). In short, you will be asked
 
 #### Books
 
- * Hoff, P. D. (2009). _A First Course in Bayesian Statistical Methods_. Springer.
- * Robert, C. P., and Casella, G. (2009). [_Introducing Monte Carlo methods with R_](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-1576-4.pdf). Springer.
+ - Hoff, P. D. (2009). _A First Course in Bayesian Statistical Methods_. Springer.
+ - Robert, C. P., and Casella, G. (2009). [_Introducing Monte Carlo methods with R_](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-1576-4.pdf). Springer.
+ -	Robert, C., 2007. _The Bayesian choice: from decision-theoretic foundations to computational implementation_. Springer Science & Business Media.
+-	Gelman, A., Carlin, J.B., Stern, H.S., Dunson, D.B., Vehtari, A. and Rubin, D.B., 2013. [_Bayesian data analysis_](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf). CRC press.
+
  
 
 #### Articles
