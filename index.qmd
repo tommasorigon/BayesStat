@@ -75,9 +75,7 @@ The exam rules are described [here](exam_rules.pdf). In short, you will be asked
 
 #### Articles
 
-- Blei, D. M., Kucukelbirb A., and McAuliffe, J. D. (2017). Variational inference: a review for statisticians. *Journal of the American Statistical Association*, **112**(518), 859--877.
-
-- Roberts, G. O. and Rosenthal, J. S. (2001). Optimal scaling for various Metropolis-Hastings algorithms. *Statistical Science*, **16**(4), 351--367.
+Additional references are available online on the instructors' websites.
 
 
 ------------------------------------------------
