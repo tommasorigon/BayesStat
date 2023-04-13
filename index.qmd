@@ -46,10 +46,13 @@ Bayesian Statistics is a Ph.D. course organized in **three modules**
 
 ---------------------------------------------------
 
-#### Advanced Bayesian modelling (Raffaele Argiento, 12h)
+#### [Mixture models in Bayesian Statistics](http://www.raffaeleargiento.it/syllabus_bayesiana_bicocca_2023.pdf) (Raffaele Argiento, 12h)
 
--
--
+- Finite and infinite mixture models, the basic concepts of kernel, mixing measure and components of a mixture.
+- The latent component allocation variables and the clustering it induces on the data by a mixture model. Difference between component and cluster.
+- The prior on the parameter "cluster" induced by the mixing measure: the exchangeable product partition function (EPPF) and its properties. The prior on the number of components and the prior on the number of clusters.
+- Linear and non-linear functionals of the posterior distributions and how to approximate them via Markov Chain Monte Carlo (MCMC) algorithms.
+- Marginal and conditional algorithms for mixture model, the Chinese restaurant process and its generalization.
 
 ## Exam
 
