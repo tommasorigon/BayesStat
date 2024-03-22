@@ -4,19 +4,18 @@ subtitle: "Ph.D. in Economics, Statistics, and Data Science - University of Mila
 author:
   name: Raffaele Argiento, Bernardo Nipoti, and Tommaso Rigon
   affiliation: DEMS
+page-layout: full
 format:
   html:
-    theme: cosmo
+    html-math-method: katex
+    echo: true
+    callout-appearance: minimal
+    theme: [simplex, template.css]
     toc: true
-    embed-resources: true
+    embed-resources: false
     code-line-numbers: true
     smooth-scroll: true
-    execute:
-      echo: true
-      message: false
-      warning: false
-editor_options: 
-  chunk_output_type: console
+    fig-dpi: 250
 ---
 
 ## Detailed syllabus
